@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "hclw:silverluckycoin"
+    },
+    "S": {
+      "item": "minecraft:gold_block"
+    },
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "XSX",
+    "S#S",
+    "XSX"
+  ],
+  "result": {
+    "item": "hclw:luckycoin"
+  }
+}
